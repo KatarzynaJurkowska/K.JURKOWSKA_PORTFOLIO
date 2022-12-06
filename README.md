@@ -1,6 +1,7 @@
 # K.JURKOWSKA_PORTFOLIO
 
-__About me__
+
+## About me
 
 
 My name is Katarzyna Jurkowska. I graduated from the Silesian University of Technology in Gliwice. I hold an Msc degree in Chemical Engineering.
@@ -11,22 +12,23 @@ Currently, I am working in the company which is implementing new systems (ERP, e
 As a tester I could make use of my skills such as accuracy, patience and attention to detail which are also related to my current job. Additionally, I am communicative and I will easily cooperate with a new team.
 
 
-__My projects__
+## My projects
 
-- Bugs
 
-https://drive.google.com/drive/folders/1OqfV3VRRHtxjN8hji9YaxbjOVngO_f5I
+### Bugs
 
-- Test cases
+  * https://drive.google.com/drive/folders/1OqfV3VRRHtxjN8hji9YaxbjOVngO_f5I
 
-https://drive.google.com/drive/folders/1H8w7p6Xwgjw9C3tt2GP5jC-XFTa_yW6g
+### Test cases
 
-- Report
+  * https://drive.google.com/drive/folders/1H8w7p6Xwgjw9C3tt2GP5jC-XFTa_yW6g
 
-https://drive.google.com/drive/folders/1BlWvMwyqrMx8BLjMtauXIXLk0NU8CkU5
+### Report
 
-- SQL tasks
+  * https://drive.google.com/drive/folders/1BlWvMwyqrMx8BLjMtauXIXLk0NU8CkU5
 
-https://github.com/KatarzynaJurkowska/Task-5
+### SQL tasks
 
-https://github.com/KatarzynaJurkowska/Task-6
+  * https://github.com/KatarzynaJurkowska/Task-5
+
+  * https://github.com/KatarzynaJurkowska/Task-6
